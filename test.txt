@@ -1,1 +1,2 @@
 hello issue1 branch
+new function in issue1 branch
